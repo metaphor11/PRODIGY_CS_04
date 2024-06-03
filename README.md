@@ -1,4 +1,3 @@
-```markdown
 # Basic Python Keylogger
 
 This is a basic keylogger program written in Python that records and logs all keystrokes on a computer. The keystrokes are saved to a log file.
